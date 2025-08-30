@@ -1,3 +1,7 @@
 pandas==1.5.3
 requests==2.28.2
-streamlit==1.20.0
+streamlit==1.25.0
+rich==14.1.0
+markdown-it-py==4.0.0
+pygments==2.19.2
+mdurl==0.1.2

@@ -1,0 +1,9 @@
+# Ignore user login data (don't upload saved usernames & passwords)
+login_data.csv
+
+# Ignore local secrets (API key)
+.streamlit/secrets.toml
+
+# Ignore Python cache files & folders
+__pycache__/
+*.pyc
